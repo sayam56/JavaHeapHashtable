@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author aisay
+ *
+ */
+module LinearDataStructures {
+}
